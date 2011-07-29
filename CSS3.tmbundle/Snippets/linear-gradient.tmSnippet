@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-linear-gradient(${1:direction}, ${2:begin}, ${3:end});
+-moz-linear-gradient(${1:direction}, ${2:begin}, ${3:end});
+-ms-linear-gradient(${1:direction}, ${2:begin}, ${3:end});
+-o-linear-gradient(${1:direction}, ${2:begin}, ${3:end});
+linear-gradient(${1:direction}, ${2:begin}, ${3:end});
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='$2', EndColorStr='$3');
+$0</string>
+	<key>name</key>
+	<string>linear-gradient</string>
+	<key>tabTrigger</key>
+	<string>linearg</string>
+	<key>uuid</key>
+	<string>3C554DE0-36D0-48AE-9A89-AEEFF8534852</string>
+</dict>
+</plist>

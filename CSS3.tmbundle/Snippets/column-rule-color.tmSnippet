@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-column-rule-color: ${1:black};
+-moz-column-rule-color: $1;
+column-rule-color: $1;
+$0</string>
+	<key>name</key>
+	<string>column-rule-color</string>
+	<key>tabTrigger</key>
+	<string>columnrulec</string>
+	<key>uuid</key>
+	<string>F07666B8-A2FA-48FC-A009-772D8F07F9B2</string>
+</dict>
+</plist>
